@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.coronavirus.coronavirustracker.CoronavirusTrackerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.246 s - in com.coronavirus.coronavirustracker.CoronavirusTrackerApplicationTests
