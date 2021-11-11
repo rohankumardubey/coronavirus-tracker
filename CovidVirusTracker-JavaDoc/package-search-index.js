@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.coronavirus.coronavirustracker"},{"l":"com.coronavirus.coronavirustracker.controllers"},{"l":"com.coronavirus.coronavirustracker.models"},{"l":"com.coronavirus.coronavirustracker.services"}]
